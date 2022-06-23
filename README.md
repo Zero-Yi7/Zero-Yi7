@@ -1,16 +1,17 @@
-### Hi there 👋
+##   Hey, I'm Zero-Yi7!
 
-<!--
-**Zero-Yi7/Zero-Yi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
+</div>
+## This is me
 
-Here are some ideas to get you started:
+- 擅长 Vue 技术栈！
+- 喜欢有意思、有挑战的工作，共同探索不一样的解决方案。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
+
+- "用自己的一点点努力去改变世界" 是我的梦想 ~~
+
+![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
