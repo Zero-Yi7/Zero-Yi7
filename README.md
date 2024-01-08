@@ -4,7 +4,7 @@
 
 ### About Me
 
-🌱On the way to keep exploring cyber security, have nothing to do！
+🌱have nothing to do！
 
 Looking forward to meeting fellow travelers.
 
