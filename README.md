@@ -10,5 +10,5 @@ Looking forward to meeting fellow travelers.
 
 **my_vulnerabilities**
 
-- CVE-2023-1131
+- CVE-xxxx-xxxx
 
