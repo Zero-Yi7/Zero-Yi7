@@ -8,7 +8,3 @@
 
 Looking forward to meeting fellow travelers.
 
-**my_vulnerabilities**
-
-- CVE-xxxx-xxxx
-
